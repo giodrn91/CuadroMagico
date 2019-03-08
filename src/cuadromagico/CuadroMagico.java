@@ -6,7 +6,8 @@ public class CuadroMagico {
         int n=0;        
         System.out.print("Digite el numero de la matriz: ");
         n=sc.nextInt();
-        System.out.println("El numero es: "+n);        
+        System.out.println("El numero es: "+n);  
+        System.out.println("Gracias"); 
     }
     
 }
