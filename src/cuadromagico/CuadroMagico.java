@@ -8,6 +8,7 @@ public class CuadroMagico {
         n=sc.nextInt();
         System.out.println("El numero es: "+n);  
         System.out.println("Gracias"); 
+        System.out.println("salu"); 
     }
     
 }
